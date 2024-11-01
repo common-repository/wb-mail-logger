@@ -1,0 +1,18 @@
+.wb_mlr .button-primary{ background:#6d4cb7; border-color:#6d4cb7; }
+.wb_mlr .button-secondary{ color:#6d4cb7; border-color:#6d4cb7; }
+.wb_mlr .button-secondary:hover{ color:#6d4cb7; border-color:#6d4cb7; }
+.wb_mlr .button-primary:hover{ background:#6d4cb7; border-color:#6d4cb7; }
+.wb_mlr_download_list{ list-style:decimal; margin:0px; }
+.wb_mlr_detail_popup{position:fixed; z-index:10000001; background:#fff; box-shadow:0px 2px 7px 1px #333; left:50%; display:none; width:700px; min-height:300px; }
+.wb_mlr_detail_popup_head{ float:left; width:100%; box-sizing:border-box; padding:5px 10px; color:#fff; background:#6d4cb7; height:40px; text-align:left; line-height:27.5px; font-weight:bold;}
+.wb_mlr_detail_popup_head .dashicons{ line-height:27.5px;}
+.wb_mlr_detail_popup_close{ float:right; width:30px;color:#fff; height:30px; text-align:center; line-height:30px; font-weight:bold; cursor:pointer;}
+.wb_mlr_popup_inner{ padding:10px;}
+.wb_mlr_ajax_loader{ background:url(../images/loading.gif) no-repeat center #fff;}
+.wb_mlr_subject{float:left; width:100%; padding:5px 0px; font-size:14px; font-weight:bold; }
+.wb_mlr_content{float:left; width:100%; padding:5px 0px; }
+.wb_mlr_pagination{ float:left; width:100%; margin-top:15px; text-align:center; }
+.wb_mlr_btn_disabled{ cursor:not-allowed !important; opacity:.5; }
+.wb_mlr_list_table th .wb_mlr_bulk_check_main{ margin-left:3px; }
+.wb_mlr_action_panel{ float:left; width:100%; padding:15px 0px; }
+.wb_mlr_search_box{ float:right; }
